@@ -19,12 +19,12 @@ alwaysApply: true
 
 Придерживайся такой структуры:
 /project
-├── index.html # главная страница
+├── index.html
 ├── /css
-│ └── style.css # все стили
-├── /js
-│ └── script.js # весь JavaScript
-└── /images # картинки
+│   └── style.css
+├── /assets
+│   ├── /fonts
+│   └── /images
 
 # HTML-правила
 
