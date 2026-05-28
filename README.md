@@ -25,8 +25,7 @@
 
 ### Ссылки
 
-- URL решения: [Добавь ссылку на решение](https://your-solution-url.com)
-- URL живого сайта: [Добавь ссылку на живой сайт](https://your-live-site-url.com)
+- URL живого сайта: [Ссылка на живой сайт](https://vimanshin.github.io/social-links-profile-main/)
 
 ## Мой процесс
 
