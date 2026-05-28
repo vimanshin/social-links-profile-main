@@ -32,8 +32,12 @@
 
 ### Чем сделано
 
-- Семантическая разметка HTML5
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first подход
+- Семантическую HTML-разметку
+- BEM-методологию
+- CSS reset и custom properties
+- Подключение шрифтов через @font-face
+- Flexbox с центрированием по двум осям
+- Mobile-first адаптивность
+- Псевдоклассы :hover, :focus-visible
+- WCAG-доступность
+- Медиа-запросы
